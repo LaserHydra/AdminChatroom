@@ -20,7 +20,7 @@
 ```
 ## Localization
 
-The default messages are in the `AdminChatroom.en.json` under the `oxide/lang directory`. To add support for another language, just copy one of the defaults, change the language code (en, fr, de, ru, or es), and then customize the messages.
+The default messages are in the `AdminChatroom.json` file under the `oxide/lang/en` directory. To add support for another language, create a new language folder (ex. de for German) if not already created, copy the default language file to the new folder, and then customize the messages.
 
 ## Frequently Asked Questions
 
