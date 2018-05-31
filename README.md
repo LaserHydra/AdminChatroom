@@ -2,7 +2,7 @@
 
 ## Permissions
 
-- **adminchatroom.allowed** -- Allows player to slap other players
+- **adminchatroom.allowed** -- Allows players to use the admin chatroom
 
 ## Commands
 
